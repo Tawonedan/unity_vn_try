@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66cc0df4eeb87124c815559ca198413e, type: 3}
+  m_Name: Alice_Data
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterName: Alice
+  nameColor: {r: 0.57254905, g: 0.49411765, b: 1, a: 1}
+  neutral: {fileID: 2391150744726022178, guid: efcf40ce58ef56140b7fe39a9bb2bbb6, type: 3}
+  happy: {fileID: 83247269595693407, guid: d396f2c16e4ce5a41bf6d473b46ea73d, type: 3}
+  sad: {fileID: -1629706629617152895, guid: 750aec215ebf96d42bd82f3c0472e08d, type: 3}
+  angry: {fileID: 2391150744726022178, guid: efcf40ce58ef56140b7fe39a9bb2bbb6, type: 3}
